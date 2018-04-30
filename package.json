@@ -1,0 +1,23 @@
+{
+  "name": "back-end-project-week",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "https://github.com/erikAlon/back-end-project-week.git",
+  "author": "Erik Alonso <mr.alonsoea@protonmail.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "chai": "1.18.2",
+    "chai-http": "4.0.0",
+    "express": "4.16.3",
+    "express-session": "1.15.6",
+    "mocha": "5.1.1",
+    "mongoose": "5.0.16",
+    "morgan": "1.9.0",
+    "sinon": "5.0.1",
+    "bcrypt": "^1.0.2",
+    "connect-mongo": "2.0.1",
+    "cors": "2.8.4"
+  }
+}
